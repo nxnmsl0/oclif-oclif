@@ -1743,10 +1743,10 @@
     wordwrap "^1.0.0"
     wrap-ansi "^7.0.0"
 
-"@oclif/plugin-help@^6.2.29":
-  version "6.2.29"
-  resolved "https://registry.yarnpkg.com/@oclif/plugin-help/-/plugin-help-6.2.29.tgz#6c349de65f5a7fee5f94032137fc872ac829d259"
-  integrity sha512-90DMOngEHiQw1I7oylVE1Hco991OkeDFJMx3CNJ2M3g5F1dhXgscjbaIlYHdiuNyVs0mTkKevdiMs911suD4yA==
+"@oclif/plugin-help@^6.2.33":
+  version "6.2.33"
+  resolved "https://registry.yarnpkg.com/@oclif/plugin-help/-/plugin-help-6.2.33.tgz#931dc79b09e11ba50186a9846a2cf5a42a99e1ea"
+  integrity sha512-9L07S61R0tuXrURdLcVtjF79Nbyv3qGplJ88DVskJBxShbROZl3hBG7W/CNltAK3cnMPlXV8K3kKh+C0N0p4xw==
   dependencies:
     "@oclif/core" "^4"
 
